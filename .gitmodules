@@ -1,0 +1,3 @@
+[submodule "libc/lib/ziglibc"]
+	path = libc/lib/ziglibc
+	url = https://github.com/marler8997/ziglibc.git

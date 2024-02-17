@@ -1,3 +1,3 @@
-# microzig-examples
+# WE MOVED BACK TO A MONOREPO HERE: https://github.com/ZigEmbeddedGroup/microzig
 
-Examples for embedded zig!
+## Future contributions go the main repository
